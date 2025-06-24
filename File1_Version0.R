@@ -1,4 +1,3 @@
-print("version 1 ")
-# I added two lines
+print("version 2 ")
+# I removed one  of the lines
 print(" Don't feed the trolls. ")
-print(" Everyone is a winner when no cares about the results.")
